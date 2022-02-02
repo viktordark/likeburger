@@ -2,13 +2,13 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/9.6.5/firebase
 import { getDatabase, ref, child, get, set } from "https://www.gstatic.com/firebasejs/9.6.5/firebase-database.js";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyCaTQsuNNNmsL9PrGt1489oT4Slbld3_5Q",
-    authDomain: "burger-69d53.firebaseapp.com",
-    databaseURL: "https://burger-69d53-default-rtdb.europe-west1.firebasedatabase.app",
-    projectId: "burger-69d53",
-    storageBucket: "burger-69d53.appspot.com",
-    messagingSenderId: "805549996059",
-    appId: "1:805549996059:web:b42c78c0a2f56fcc44a0be"
+    apiKey: "AIzaSyBt6VikHy-bWILO6K-ONJwKoRWKO2idnqc",
+    authDomain: "burger-ae91b.firebaseapp.com",
+    databaseURL: "https://burger-ae91b-default-rtdb.europe-west1.firebasedatabase.app",
+    projectId: "burger-ae91b",
+    storageBucket: "burger-ae91b.appspot.com",
+    messagingSenderId: "269518907564",
+    appId: "1:269518907564:web:e2f92739cba972571bd709"
 };
 
 const app = initializeApp(firebaseConfig);
